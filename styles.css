@@ -1,0 +1,31 @@
+body {
+    background-image:url("https://www.publicdomainpictures.net/pictures/230000/velka/red-digital-numbers.jpg");
+    background-size:contain;
+    color:brown;
+    font-size:larger;
+    text-align: center;
+}
+    h1{
+        color: purple;
+        font:"Times New Roman";
+        text-align:center;
+        font-size: 50px;
+
+    }
+    p {
+        color: blue;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        font-size:30px;
+        background-color:black;
+    }
+    div {
+        text-align:center;
+    }
+    button {
+        background-color: aqua;
+        color:blueviolet;
+        font-size: 24px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
